@@ -583,7 +583,7 @@ github.com/miekg/dns
 # github.com/minio/md5-simd v1.1.2
 ## explicit; go 1.14
 github.com/minio/md5-simd
-# github.com/minio/minio-go/v7 v7.0.36
+# github.com/minio/minio-go/v7 v7.0.36 => github.com/minio/minio-go/v7 v7.0.45
 ## explicit; go 1.17
 github.com/minio/minio-go/v7
 github.com/minio/minio-go/v7/pkg/credentials
@@ -1361,3 +1361,4 @@ sigs.k8s.io/yaml
 # github.com/vimeo/galaxycache => github.com/thanos-community/galaxycache v0.0.0-20211122094458-3a32041a1f1e
 # google.golang.org/grpc => google.golang.org/grpc v1.45.0
 # gopkg.in/yaml.v3 => github.com/colega/go-yaml-yaml v0.0.0-20220720105220-255a8d16d094
+# github.com/minio/minio-go/v7 => github.com/minio/minio-go/v7 v7.0.45
