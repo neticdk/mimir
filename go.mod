@@ -20,7 +20,7 @@ require (
 	github.com/grafana/e2e v0.1.1-0.20220519104354-1db01e4751fe
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/json-iterator/go v1.1.12
-	github.com/minio/minio-go/v7 v7.0.36
+	github.com/minio/minio-go/v7 v7.0.45
 	github.com/mitchellh/go-wordwrap v1.0.0
 	github.com/oklog/ulid v1.3.1
 	github.com/opentracing-contrib/go-grpc v0.0.0-20210225150812-73cb765af46e
